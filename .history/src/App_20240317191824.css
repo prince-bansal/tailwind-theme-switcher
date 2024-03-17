@@ -1,0 +1,30 @@
+@layer base{
+    :root{
+        --heading-color: rgb(237 233 254);
+        --bg-fill: rgb(219 234 254);
+        --bg-button-accent: rgb(167 139 250);
+        --border-color:rgb(167 139 250);;
+    }
+    .theme-blue{
+        --heading-color: rgb(30 58 138);
+        --bg-fill: rgb(219 234 254);
+        --bg-button-accent: rgb(167 139 250);
+        --border-color: rgb(147 197 253);
+    }
+
+    .theme-red{
+        --heading-color: rgb(220 38 38);
+        --bg-fill: rgb(254 226 226);
+        --bg-button-accent: rgb(252 165 165);
+        --border-color: rgb(252 165 165);
+    }
+
+    .theme-green{
+        --heading-color: rgb(21 128 61);
+        --bg-fill: rgb(220 252 231);
+        --bg-button-accent: rgb(134 239 172);
+        --border-color: rgb(134 239 172);
+    }
+
+
+}
